@@ -8,7 +8,7 @@ My name's Bobby Zia. I’m a second year Computer Science student at Queen's Uni
 
 You can find me on [![LinkedIn][3.2]][3].
 
-Check out my personal site here: [![4.2]][4]
+Check out my personal site here: [![Site][4.2]][4]
 
 
 
@@ -42,7 +42,7 @@ Check out my personal site here: [![4.2]][4]
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[4.2]: https://github.com/bzia/bzia/blob/main/2507930-middle.png
+[4.2]: https://github.com/bzia/bzia/blob/main/reacticon.png
 
 <!-- links to your social media accounts -->
 
