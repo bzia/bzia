@@ -8,6 +8,8 @@ My name's Bobby Zia. I’m a second year Computer Science student at Queen's Uni
 
 You can find me on [![LinkedIn][3.2]][3].
 
+Check out my personal site here: <p href="bzia.github.io" ></p>
+
 
 
 ## &#x1f4c8; GitHub Stats
