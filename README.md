@@ -10,7 +10,7 @@ You can find me on [![LinkedIn][3.2]][3].
 
 Check out my personal site here: <a target="_blank" href="https://bzia.github.io">bzia.github.io</a>
 
-
+<a href="https://leetcode.com/bobbyzia123/"><img src="https://img.shields.io/badge/LeetCode-000000?&style=for-the-badge&logo=leetcode"></a>
 
 ## &#x1f4c8; GitHub Stats
 
